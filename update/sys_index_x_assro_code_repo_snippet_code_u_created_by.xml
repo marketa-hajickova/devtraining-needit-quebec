@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>code,u_created_by</col_name_string>
+        <index_col_name>63907d5d1ba3205043950b05464bcbe3,5e1fd78f1b7fe05043950b05464bcb09</index_col_name>
+        <logical_table_name>x_assro_code_repo_snippet</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-06-16 06:57:56</sys_created_on>
+        <sys_id>554f24591b303010a7d0a9b4bd4bcb95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_assro_code_repo_snippet</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_index_x_assro_code_repo_snippet_code_u_created_by</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-06-16 06:57:56</sys_updated_on>
+        <table display_value="Snippet" name="x_assro_code_repo_snippet">7f7e61d91ba3205043950b05464bcbbf</table>
+        <unique_index>true</unique_index>
+    </sys_index>
+</record_update>
